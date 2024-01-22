@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header .navbar .nav_logo, .nav_menu{
+    display: inline-block;
+    margin-left: 40px;
+}
+.navbar .nav_logo{
+    margin-right: 500px;
+}
+label{
+    display: block;
+    padding: 5px 0px;
+}
+input, textarea{
+    padding: 10px;
+}
+button{
+    margin: 10px 0px;
+}
+.communicate_section .communicate_section_left, .communicate_section_right{
+    display: inline-block;
+    margin: 40px;
+}
+.communicate_section_right{
+    vertical-align: top;
+    margin-left: 300px;
+}
+.logo_p{
+    font-size: 46px !important;
+    font-weight: 800;
+}
+.communicate_section_right p{
+    padding: 5px;
+    font-size: 20px;
+}
+.communicate_section_right ul li{
+    padding: 10px;
+    display: inline-block;
+}
+#copyright_sec{
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 0px;
+}
+#design_develop{
+    text-align: center;
+    padding: 5px 0px;
+}
